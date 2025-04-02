@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Tofaletti, Bruno *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-22 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Tofaletti, Bruno 
+- **Comisión:** M2025-22 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados por Bruno Tofaletti durante la cursada de **Programación 1**.  
